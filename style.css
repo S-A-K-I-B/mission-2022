@@ -97,4 +97,7 @@ footer h1{
 #red{
     color: red;
 }
-
+.fifth-section{
+    display: flex;
+    text-align: justify;
+}
