@@ -29,3 +29,36 @@ h1{
     padding: 10px 40px;
     border-radius: 5px;
 }
+.second-section{
+    text-align: center;
+}
+.mission{
+    color: rgb(0, 119, 255);
+}
+.three-flex{
+    display: flex;
+}
+.one-three{
+    width: 20%;
+    padding: 15px;
+    box-shadow: 5px 5px 15px black;
+}
+.one-three img{
+    height: 150px;
+    width: 150px;
+}
+.mision{
+    text-align: justify;
+    margin: 5% 5% 5% 10%;
+    background-color: rgba(222, 184, 135, 0.521);
+}
+.vission{
+    margin: 5%;
+    text-align: justify;
+    background-color: rgba(128, 128, 128, 0.438);
+}
+.goal{
+    margin: 5% 10% 5% 5%;
+    text-align: justify;
+    background-color: rgba(255, 182, 193, 0.534);
+}
