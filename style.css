@@ -1,7 +1,7 @@
 .font{
     font-family: 'Roboto', sans-serif;
     font-family: 'Spline Sans', sans-serif;
-    font-size 20px;
+    font-size: 20px;
 }
 h1{
     font-size: 50px;
@@ -80,3 +80,21 @@ width: 400px;
     display: flex;
     text-align: justify;
 }
+footer{
+    
+    margin: 0 -0.52% -0.99% -0.52%  ;
+    background-color: rgb(50, 44, 75);
+    color: white;
+    text-align: center;
+    padding: 30px;
+    
+}
+
+footer h1{
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+}
+#red{
+    color: red;
+}
+
