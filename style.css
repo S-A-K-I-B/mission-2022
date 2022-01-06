@@ -74,5 +74,9 @@ width: 400px;
 }
 .third{
     margin: 5%;
-    font-size: 20px;
+    font-size:20px;
+}
+.fourth-section{
+    display: flex;
+    text-align: justify;
 }
